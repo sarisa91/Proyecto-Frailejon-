@@ -7,3 +7,23 @@
 a{
     text-decoration: ;
 }
+
+.fuente1{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+
+.fuente2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+.fuente3{
+    font-family: 'Ballet', cursive;
+    font-size: 20px;
+}
+
+.fuente4{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 20px;
+}
